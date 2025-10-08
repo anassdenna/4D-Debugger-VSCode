@@ -10,7 +10,7 @@ This extension developed by **[4D](https://www.4d.com/)** provides a debugger fo
 3. Open a 4D project folder and run a 4D method (.4dm) file.
 4. Start debugging.
 
-All 4D blog posts about this extension are available [here](https://blog.4d.com/tag/vsdebugger/).
+All 4D blog posts about this extension are available [here](https://blog.4d.com/tag/vscode/).
 
 ## Requirements
 
