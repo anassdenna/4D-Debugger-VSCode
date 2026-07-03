@@ -1,0 +1,14 @@
+.gitignore
+  h_99075509814ea3 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "16ce54ce407b358a5a9c495888064665e8e2e09f",
+  "prompts": {},
+  "humans": {
+    "h_99075509814ea3": {
+      "author": "anass <anass.denna@4d.com>"
+    }
+  }
+}
